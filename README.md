@@ -13,9 +13,10 @@ Lien vers le projet : https://aperbet56.github.io/raining_partical/
 ## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
-- CSS
+- CSS3
 - Utilisation d'un normaliseur : normalize.css
 - Page web responsive
+- Desktop first
 - JavaScript
 - Code JavaScript commenté
 - Desktop first
