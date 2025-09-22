@@ -1,6 +1,8 @@
 ## RAINING PARTICAL
 
-## Le challege
+![Design preview for the project](./img/preview.png)
+
+## Le challenge
 
 Animation raining partical construite avec le HTML5, CSS3 et JavaScript
 
@@ -8,7 +10,7 @@ Animation raining partical construite avec le HTML5, CSS3 et JavaScript
 
 Lien vers le projet : https://aperbet56.github.io/raining_partical/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
